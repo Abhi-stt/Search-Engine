@@ -18,4 +18,4 @@ duckdb
 pandas
 langchain_groq
 langchain_chroma
-ddgs==0.6.2
+ddgs==9.0.0
